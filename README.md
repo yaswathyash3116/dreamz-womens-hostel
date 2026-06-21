@@ -70,10 +70,7 @@ Run the migrations in your Supabase SQL editor in order:
 3. `003_setup_specific_rooms_and_auth.sql`
 4. `004_fix_admin_rls_and_add_whatsapp.sql`
 
-## Admin Login
 
-- **Username**: `admin`
-- **Password**: `admin123`
 
 *Change these credentials after first login for security.*
 
